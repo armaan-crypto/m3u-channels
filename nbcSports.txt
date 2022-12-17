@@ -1,0 +1,26 @@
+#EXTINF:-1,NBC Sports Bay Area FHD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/22899
+#EXTINF:-1,NBC Sports Bay Area Plus HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/131800
+#EXTINF:-1,NBC Sports Boston HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/22898
+#EXTINF:-1,NBC Sports California HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/22897
+#EXTINF:-1,NBC Sports California Plus FHD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/131801
+#EXTINF:-1,NBC Sports California Plus 2 HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/131802
+#EXTINF:-1,NBC Sports Chicago Plus HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/131803
+#EXTINF:-1,NBC Sports Northwest HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/22895
+#EXTINF:-1,NBC Sports Philadelphia HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/22894
+#EXTINF:-1,NBC Sports Washington HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/22892
+#EXTINF:-1,SNY Sports Net New York FHD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/11915
+#EXTINF:-1,Spectrum Sportsnet HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/54856
+#EXTINF:-1,Spectrum Sportsnet LA HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/54857

@@ -1,0 +1,82 @@
+#EXTINF:-1,Fox Sports Arizona HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/71694
+#EXTINF:-1,Fox Sports Detroit HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/71689
+#EXTINF:-1,Fox Sports Florida HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/71693
+#EXTINF:-1,Fox Sports Kansas City HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/71703
+#EXTINF:-1,Fox Sports Kansas City Pl HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/71702
+#EXTINF:-1,Fox Sports Midwest HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/71692
+#EXTINF:-1,Fox Sports NetBase HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/71682
+#EXTINF:-1,Fox Sports North HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/71691
+#EXTINF:-1,Fox Sports Ohio HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/71690
+#EXTINF:-1,Fox Sports Prime Ticket HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/71685
+#EXTINF:-1,Fox Sports San Diego HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/71687
+#EXTINF:-1,Fox Sports Soccer HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/71704
+#EXTINF:-1,Fox Sports South HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/71697
+#EXTINF:-1,Fox Sports Southeast HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/71698
+#EXTINF:-1,Fox Sports Southwest HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/71700
+#EXTINF:-1,Fox Sports Southwest Pl HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/71699
+#EXTINF:-1,Fox Sports SportsTime Ohio HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/71683
+#EXTINF:-1,Fox Sports Sun HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/71688
+#EXTINF:-1,Fox Sports Tennessee HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/71686
+#EXTINF:-1,Fox Sports West HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/71696
+#EXTINF:-1,Fox Sports Wisconsin HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/71695
+#EXTINF:-1,Fox Sports YES Network HD US 
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/71684
+#EXTINF:-1,Bally Sports Arizona HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/120219
+#EXTINF:-1,Bally Sports Detroit HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/120220
+#EXTINF:-1,Bally Sports Florida HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/120231
+#EXTINF:-1,Bally Sports Great Lakes HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/120225
+#EXTINF:-1,Bally Sports Midwest HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/120227
+#EXTINF:-1,Bally Sports Netbase HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/120233
+#EXTINF:-1,Bally Sports North HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/120218
+#EXTINF:-1,Bally Sports Ohio HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/120226
+#EXTINF:-1,Bally Sports Oklahoma  HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/120235
+#EXTINF:-1,Bally Sports Oklahoma Plus HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/120236
+#EXTINF:-1,Bally Sports Prime Ticket HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/120240
+#EXTINF:-1,Bally Sports San Diego HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/120223
+#EXTINF:-1,Bally Sports SoCal HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/120221
+#EXTINF:-1,Bally Sports South HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/120230
+#EXTINF:-1,Bally Sports Southwest HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/120228
+#EXTINF:-1,Bally Sports Sun HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/120232
+#EXTINF:-1,Bally Sports West HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/120222
+#EXTINF:-1,Bally Sports Wisconsin HD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/120224
+#EXTINF:-1,Marquee Sports Network FHD US
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/120238
